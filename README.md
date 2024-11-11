@@ -1,1 +1,11 @@
 # Higher-or-Lower-game
+- The Higher or Lower game is based on guess the number of instagram followers the individual has.
+- The user has to download 3 files game_data, art and main. As all the 3 files are required.
+- Takes the account data and prints the printable format.
+- Take a user's guess and the follower counts and returns if they got it right.
+- Generate a random account from the game data
+- Making account at position B become the next account at position A
+- Check if the user is correct.
+- Get follower count of each account
+- Give user feedback on their guess
+- Score keeping
